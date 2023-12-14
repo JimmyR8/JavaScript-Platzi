@@ -10,4 +10,4 @@
 - Plataforma de proyectos
 
 # ¿Que necesitamos aprender? ✨
-- Trazarnos objetivos 🎯
+- Trazarnos objetivos🎯
